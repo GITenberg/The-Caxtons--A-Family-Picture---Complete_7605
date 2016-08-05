@@ -1,0 +1,38 @@
+_repo: The-Caxtons--A-Family-Picture---Complete_7605
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    - Bulwer, Edward Lytton
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: "The Caxtons: A Family Picture is an 1849 Victorian novel by Edward Bulwer-Lytton\
+  \ that was popular in its time.\nThe book was first serialized anonymously in Blackwood's\
+  \ Magazine from April 1848 to October 1849, and first published in novel form (in\
+  \ three volumes) in Britain in 1849. In the United States, it was serialized in\
+  \ Harper's Magazine (1850-53) and Littell's Living Age (1850-52).\nThe novel was\
+  \ \"instantly popular\" in Britain and also sold 35,000 copies within three years\
+  \ of its release in the United States.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7605'
+  wikidata: Q16385244
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Caxtons: A Family Picture — Complete'
+url: http://www.gutenberg.org/ebooks/7605
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Caxtons
