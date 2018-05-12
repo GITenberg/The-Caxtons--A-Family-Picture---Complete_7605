@@ -1,5 +1,8 @@
 _repo: The-Caxtons--A-Family-Picture---Complete_7605
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -18,6 +21,8 @@ description: "The Caxtons: A Family Picture is an 1849 Victorian novel by Edward
   \ Harper's Magazine (1850-53) and Littell's Living Age (1850-52).\nThe novel was\
   \ \"instantly popular\" in Britain and also sold 35,000 copies within three years\
   \ of its release in the United States.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7605#The-Caxtons--A-Family-Picture---Complete
 gutenberg_issued: '2004-11-22'
 gutenberg_type: Text
 identifiers:
